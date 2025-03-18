@@ -69,8 +69,8 @@ Data Visualization Dashboard
 
 Clone the Repository:
 
-git clone https://github.com/username/Harvesting-Precision-Nano-Sensor-RFID.git
-
+git clone
+https://github.com/venkat-teja-17/Harvesting-Precision-Nano-Sensor-RFID-Tags-for-pH-and-Moisture-Monitoring-in-Agriculture.git
 
 Install Dependencies (For Raspberry Pi/Arduino):
 
