@@ -102,10 +102,6 @@ Mude Venkata Teja - BU21EECE0100106
 
 Dr. Lignesh Durai
 
-# 📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 # 📞 Contact
 
 For queries or collaborations, feel free to reach out at your-venkatteja175@gmail.com.
